@@ -20,5 +20,5 @@
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninix07&" alt="ninix07" /></p>
 
-
-
+<p>![ninix07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninix07&theme=cobalt&show_icons=true&hide_border=true&layout=compact)</p>
+<p>![ninix07's Stats](https://github-readme-stats.vercel.app/api?username=ninix07&theme=cobalt&show_icons=true&hide_border=true&count_private=true)</p>
